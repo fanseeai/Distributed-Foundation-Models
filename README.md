@@ -10,7 +10,7 @@ The current reliance on monolithic models presents significant challenges, espec
 
 ## Proposal
 
-Our proposal posits that learning can feasibly occur through nodes within a distributed system exchanging messages via compressed communication channels. By decentralizing the learning process and leveraging distributed systems, we can overcome the limitations of centralized models, particularly in the realm of multi-modal learning. Compressed communication channels serve as the backbone of this approach, enabling collaborative learning through information exchange among distributed nodes.
+Our proposal posits that learning can feasibly occur through nodes within a distributed system exchanging messages via compressed communication channels. By decentralizing the learning process and leveraging distributed systems, we can overcome the limitations of centralized models, particularly in the realm of multi-modal learning. Compressed communication channels serve as the backbone of this approach, enabling collaborative learning through critical information exchange among distributed nodes. Learning is achieved by striving for consensus among nodes, mimicking the collaborative nature of human learning.
 
 ## Example: Implementing Diffusion via Distributed Computing
 

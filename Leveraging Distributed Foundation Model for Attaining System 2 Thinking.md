@@ -1,3 +1,5 @@
+## Leveraging Distributed Foundation Model for Attaining System 2 Thinking:
+
 System 2 thinking is a concept from Nobel laureate Daniel Kahneman's dual-process theory, which proposes two ways our minds process information:
 
 - System 1: Fast, automatic, unconscious, and emotional. This is our gut instinct, operating on intuition and learned heuristics.

@@ -19,3 +19,8 @@ There exists a compelling analogy between denoising within the diffusion model a
 ## Conclusion
 
 In conclusion, the distributed foundation model, facilitated by compressed communication channels, holds immense promise for revolutionizing multi-modal learning paradigms. By decentralizing the learning process and embracing distributed systems, we can address the pressing challenges posed by centralized models, particularly in processing video and audio data, and unlock new opportunities for scalable, efficient, and collaborative knowledge acquisition and dissemination.
+
+### Further Reading
+
+- [Comparison to Belief Propagation](https://github.com/fanseeai/Distributed-Foundation-Models/blob/main/Comparison%20to%20Belief%20Propagation.md)
+- [Leveraging Distributed Foundation Model for Attaining System 2 Thinking](https://github.com/fanseeai/Distributed-Foundation-Models/blob/main/Leveraging%20Distributed%20Foundation%20Model%20for%20Attaining%20System%202%20Thinking.md)

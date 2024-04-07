@@ -6,7 +6,7 @@ As we navigate the complexities of modern data processing, the limitations of mo
 
 ## Motivation
 
-The current reliance on monolithic models presents significant challenges, especially as we progress towards training multi-modal models. Processing video and audio data requires immense computational power, leading to inevitable compute bottlenecks. Distributed learning, on the other hand, offers a more natural and scalable approach, mirroring the collaborative nature of human learning. Furthermore, recent advancements in compression techniques, as illustrated by the principle of "Attention is All You Need", underscore the potential for compressed communication channels to facilitate efficient and scalable learning processes.
+The current reliance on monolithic models presents significant challenges, especially as we progress towards training multi-modal models. Processing video and audio data requires immense computational power, leading to inevitable compute bottlenecks. Distributed learning, on the other hand, offers a more natural and scalable approach, mirroring the collaborative nature of human learning. Furthermore, recent advancements in compression techniques, as illustrated by the principle of "Attention is All You Need" and next-word prediction, underscore the potential for compressed communication channels to facilitate efficient and scalable learning processes.
 
 ## Proposal
 

@@ -13,4 +13,4 @@ While a distributed foundation model is inspired by the collaborative nature of 
 
 ## Related Reading
 
-[Applying Distributed Systems Theory to the Study of Biological Systems](Applying Distributed Systems Theory to the Study of Biological Systems.md)
+[Applying Distributed Systems Theory to the Study of Biological Systems.md](https://github.com/fanseeai/Distributed-Foundation-Models/blob/53fae4456673d7934775f641e4cfcde43c14c283/Applying%20Distributed%20Systems%20Theory%20to%20the%20Study%20of%20Biological%20Systems.md)

@@ -14,6 +14,6 @@ While a distributed foundation model is inspired by the collaborative nature of 
 Nodes are all you need.
 
 ## Related Reading
-[The Enigma of Dreaming and Its Possible Connection to Distributed Cognitive Models](https://github.com/fanseeai/Distributed-Foundation-Models/blob/53fae4456673d7934775f641e4cfcde43c14c283/Applying%20Distributed%20Systems%20Theory%20to%20the%20Study%20of%20Biological%20Systems.md](https://github.com/fanseeai/Distributed-Foundation-Models/blob/main/The%20Enigma%20of%20Dreaming%20and%20Its%20Possible%20Connection%20to%20Distributed%20Cognitive%20Models.md)
+[The Enigma of Dreaming and Its Possible Connection to Distributed Cognitive Models](https://github.com/fanseeai/Distributed-Foundation-Models/blob/main/The%20Enigma%20of%20Dreaming%20and%20Its%20Possible%20Connection%20to%20Distributed%20Cognitive%20Models.md)
 
 [Applying Distributed Systems Theory to the Study of Biological Systems](https://github.com/fanseeai/Distributed-Foundation-Models/blob/53fae4456673d7934775f641e4cfcde43c14c283/Applying%20Distributed%20Systems%20Theory%20to%20the%20Study%20of%20Biological%20Systems.md)

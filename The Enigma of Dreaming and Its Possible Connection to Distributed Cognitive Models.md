@@ -1,6 +1,6 @@
 # The Enigma of Dreaming and Its Possible Connection to Distributed Cognitive Models
 
-Dreaming has long puzzled scientists, philosophers, and psychologists alike. Throughout history, dreams have been interpreted in myriad ways: as divine messages, windows into the subconscious, or simply the brain’s byproduct during sleep. Modern scientific inquiry continues to explore the purpose and mechanics of dreaming, yet a complete understanding remains elusive. Recent advancements in cognitive science and artificial intelligence offer new frameworks to understand dreaming. One such perspective draws parallels between dreaming and the generative activities of a distributed cognitive model, particularly during periods when the brain's "leader" node is at rest.
+Dreaming has long puzzled scientists, philosophers, and psychologists alike. Throughout history, dreams have been interpreted in myriad ways: as divine messages, windows into the subconscious, or simply the brain’s byproduct during sleep. Modern scientific inquiry continues to explore the purpose and mechanics of dreaming, yet a complete understanding remains elusive. In light of recent advances in cognitive science and artificial intelligence, we suggest a new perspective: that dreaming might resemble the generative processes of a distributed cognitive model when the brain's "leader" node is inactive.
 
 ## Dreaming as a Cognitive Mystery
 

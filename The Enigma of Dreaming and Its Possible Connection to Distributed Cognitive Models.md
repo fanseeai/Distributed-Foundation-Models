@@ -28,3 +28,6 @@ The concept of dreaming as generative activity during the leader node’s rest p
 ## Conclusion
 
 Dreaming remains one of the most fascinating and mysterious aspects of human cognition. By reinterpreting dreaming through the lens of distributed cognitive models, we gain a new perspective that highlights the brain's ability to generate novel ideas and associations even during rest. This approach not only aligns with understandings of cognition as a distributed process but also underscores the adaptive advantages of maintaining cognitive activity and flexibility throughout different states of consciousness. While much about dreaming remains to be discovered, viewing it as the generative activity of a distributed system offers a promising direction for future research and understanding.
+
+## Related Reading
+[Rethinking Memory through Distributed Cognitive Models](https://github.com/fanseeai/Distributed-Foundation-Models/blob/main/Rethinking%20Memory%20through%20Distributed%20Cognitive%20Models.md), which includes a section on dream recall.

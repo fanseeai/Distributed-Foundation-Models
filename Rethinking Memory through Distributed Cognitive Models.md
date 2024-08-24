@@ -10,7 +10,7 @@ However, advances in cognitive science and artificial intelligence suggest a new
 
 In the proposed model, memory is not stored in a centralized location or solely in the connections between neurons. Instead, it is distributed across a network of specialized nodes within the brain, akin to a distributed computing system. Each node processes, stores, and contributes to the memory independently. For a memory to be recalled, a sufficient number of these nodes must reach a consensus, meaning they collectively contain and agree upon the information.
 
-### Sufficient Node Consensus for Memory Recall
+## Sufficient Node Consensus for Memory Recall
 
 Memory recall in this model occurs when enough nodes containing parts of the memory reach a consensus. This process can be likened to quorum-based algorithms in distributed systems, where a majority or a certain subset must agree to a particular state for it to be validated. If the consensus threshold is not met, the memory cannot be fully recalled or may be distorted. This framework explains why memories can sometimes be vivid and at other times fragmented or entirely inaccessible. For example, memories around traumatic events, such as motor vehicle accidents or acts of violence, may be difficult to recall because the nodes involved in storing those memories fail to reach consensus. These nodes could be disrupted due to the trauma, leading to a dilution or loss of the memory over time.
 
@@ -18,7 +18,7 @@ Memory recall in this model occurs when enough nodes containing parts of the mem
 
 The process of dream recall operates under similar principles but with notable differences due to the brain's state during dreaming. Dreaming occurs when the "leader" node, responsible for coordinating conscious thought, is inactive, and the follower nodes operate autonomously. Dreams are generated from the associative activities of these nodes, which continue to function without a central directive.
 
-### Challenges of Dream Recall
+## Challenges of Dream Recall
 
 The difficulty in recalling dreams stems from the absence of a "leader" node that normally orchestrates memory generation and facilitates smooth recall. Unlike waking memories, which are reinforced through conscious and deliberate thought (System 2 thinking), dream memories do not benefit from coordinated reinforcement. As a result, recalling a dream relies on a spontaneous consensus among autonomous nodes, a process that is typically weak and disorganized. This often leads to the partial, fragmented, or even complete failure of dream recall.
 

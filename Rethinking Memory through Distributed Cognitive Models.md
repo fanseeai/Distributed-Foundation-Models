@@ -1,4 +1,4 @@
-#Rethinking Memory through Distributed Cognitive Models
+# Rethinking Memory through Distributed Cognitive Models
 
 ## Introduction
 
